@@ -1,0 +1,8 @@
+.links-list li a {
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+.links-list li a:hover {
+  color: #0dcaf0;
+}
